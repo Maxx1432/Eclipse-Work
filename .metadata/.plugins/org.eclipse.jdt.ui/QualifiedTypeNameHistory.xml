@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.maxx.parent.Vehicle"/>
+    <fullyQualifiedTypeName name="org.maxx.vehicles.Bike"/>
+    <fullyQualifiedTypeName name="org.maxx.vehicles.Car"/>
+    <fullyQualifiedTypeName name="org.maxx.vehicles.Truck"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.maxx.Phone"/>
+    <fullyQualifiedTypeName name="com.maxx.SamsungNote8"/>
+    <fullyQualifiedTypeName name="com.maxx.Nokia3310"/>
+    <fullyQualifiedTypeName name="com.animal.bird.Birds"/>
+    <fullyQualifiedTypeName name="com.animal.parent.Animal"/>
+    <fullyQualifiedTypeName name="com.animal.bird.Eagle"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.maxx.shop.Door"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.Cookie"/>
+</qualifiedTypeNameHistroy>

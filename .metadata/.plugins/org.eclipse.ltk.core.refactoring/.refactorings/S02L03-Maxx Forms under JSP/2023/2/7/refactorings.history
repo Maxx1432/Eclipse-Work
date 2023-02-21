@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;WEB-INF&apos;&#x0D;&#x0A;- Original project: &apos;S02L03-Maxx Forms under JSP&apos;&#x0D;&#x0A;- Destination element: &apos;WEB-INF&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     form.jsp&#x0D;&#x0A;     submit.jsp" description="Copy files" element1="src/main/webapp/form.jsp" element2="src/main/webapp/submit.jsp" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1676640828935" target="/s02l04 Forms under servlet/src/main/webapp/WEB-INF" units="0" version="1.0"/>
+</session>

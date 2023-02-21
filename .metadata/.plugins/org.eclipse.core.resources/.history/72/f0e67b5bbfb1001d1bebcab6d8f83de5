@@ -1,0 +1,5 @@
+package com.max.beans;
+
+public class User {
+
+}
