@@ -1,9 +1,0 @@
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-
-<c:import url="/Include/header.jsp">
-<c:param name="title" value="JSTL Import and Param Tag"></c:param>
-</c:import>
-
-some text here
-
-<c:import url="/Include/footer.jsp"></c:import>

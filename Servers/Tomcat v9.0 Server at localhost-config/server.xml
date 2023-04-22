@@ -152,7 +152,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="Maxx- JSTL importing and Param tag" path="/Maxx-_JSTL_importing_and_Param_tag" reloadable="true" source="org.eclipse.jst.jee.server:Maxx- JSTL importing and Param tag"/></Host>
+      <Context docBase="s21l01 File and Image uploading With Hibernate" path="/s21l01_File_and_Image_uploading" reloadable="true" source="org.eclipse.jst.jee.server:s21l01 File and Image uploading With Hibernate"/></Host>
     </Engine>
   </Service>
 </Server>

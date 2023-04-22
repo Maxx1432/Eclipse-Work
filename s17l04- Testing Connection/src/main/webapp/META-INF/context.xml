@@ -1,0 +1,11 @@
+<Context>
+
+	<Resource name="jdbc/project"
+	auth="Container" type="javax.sql.DataSource"
+	maxActive="25" maxIdle="5" maxWait="10000"
+	username="Maxx" password="Maxx1234"
+	driverClassName="com.mysql.cj.jdbc.Driver"
+	url="jdbc:mysql://localhost:3306/maxx_db"
+	/>
+
+</Context>

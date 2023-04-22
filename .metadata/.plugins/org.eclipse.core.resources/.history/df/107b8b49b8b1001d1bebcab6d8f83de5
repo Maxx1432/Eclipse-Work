@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Maxx JSTL SettingUp">
-        <property name="context-root" value="Maxx_JSTL_SettingUp"/>
-        <property name="java-output-path" value="/Maxx JSTL SettingUp/build/classes"/>
-    </wb-module>
-</project-modules>

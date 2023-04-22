@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <modules>
+  <module moduleId="org.eclipse.jst.jee.server:s21l01 File and Image uploading" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Hello World" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:S01L15 Maxx - Include File In JSP" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Maxx- Fixing redirect and forward links" serverId="Tomcat v9.0 Server at localhost"/>
@@ -7,10 +8,13 @@
   <module moduleId="org.eclipse.jst.jee.server:s04l01 Session under JSP overview" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Maxx- Organizing Application" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Maxx- User logout Using Cookies2" serverId="Tomcat v9.0 Server at localhost"/>
-  <module moduleId="org.eclipse.jst.jee.server:Maxx- JSTL importing and Param tag" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Maxx- JSTL importing and Param tag"/>
+  <module moduleId="org.eclipse.jst.jee.server:s21l01 File and Image uploading With Hibernate" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Maxx- User logout Using Attribute" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Maxx- User logout (Cookie)" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:s18l01- JDBC with JSP and Servlet" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:HelloJSP" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:s17l04- Testing Connection" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:s02l04 Forms under servlet" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Deployment Dicriptor" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Maxx(L07-08)- Fixing redirect and forward links" serverId="Tomcat v9.0 Server at localhost"/>

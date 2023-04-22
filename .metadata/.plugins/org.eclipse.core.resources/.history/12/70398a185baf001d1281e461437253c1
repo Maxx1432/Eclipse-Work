@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="s04l01 Session under JSP overview">
-        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
-        <property name="context-root" value="s04l01_Session_under_JSP_overview"/>
-        <property name="java-output-path" value="/s04l01 Session under JSP overview/build/classes"/>
-    </wb-module>
-</project-modules>
